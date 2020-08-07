@@ -51,6 +51,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Git Basics](https://dev.to/kamilraliyev/notes-on-git-basics-495i)
 <!-- BLOG-POST-LIST:END -->
 
 [twitter]: https://twitter.com/KamilRAliyev
