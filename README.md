@@ -1,3 +1,5 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=KamilRAliyev.KamilRAliyev)
+
 ### Hi, I am Kamil.👋
 ## Full Stack Python Developer :snake:
 ## A lifelong learner with a strong love to programming. 
