@@ -46,7 +46,10 @@
 
 <br />
 <br />
-
+---
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [twitter]: https://twitter.com/KamilRAliyev
 [linkedin]: https://www.linkedin.com/in/aliyevk/
