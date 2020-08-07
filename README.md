@@ -60,4 +60,4 @@
 [beu]: http://www.beu.edu.az/en
 [geotravel]: https://www.geo-travel.az/
 [devto]: https://dev.to/kamilraliyev
-[gmail]: kamilraliyev@gmail.com
+[gmail]: mailto:kamilraliyev@gmail.com
