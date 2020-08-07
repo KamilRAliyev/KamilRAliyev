@@ -19,6 +19,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Kamil's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Kamil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kamil's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kamil's Dev.To" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dev-dot-to.svg" />][devto]
@@ -59,3 +60,4 @@
 [beu]: http://www.beu.edu.az/en
 [geotravel]: https://www.geo-travel.az/
 [devto]: https://dev.to/kamilraliyev
+[gmail]: kamilraliyev@gmail.com
