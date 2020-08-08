@@ -54,6 +54,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What should we know about the Python Packages?](https://dev.to/kamilraliyev/what-should-we-know-about-the-python-packages-19i1)
 - [Notes on Git Basics](https://dev.to/kamilraliyev/notes-on-git-basics-495i)
 <!-- BLOG-POST-LIST:END -->
 
