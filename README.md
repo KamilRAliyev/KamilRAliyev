@@ -5,7 +5,7 @@
 ## A lifelong learner with a strong love to programming. 
 
 ### About me:
-- 🔭 Currently working on Adzillah LTD. and Azercell LLC.
+- 🔭 Currently working on Adzillah LTD and Azercell LLC.
 - 💎 Senior Computer Engineering student @ [Baku Engineering University][beu].
 - 💬 Ask me about Python Full Stack Development
 - 💜 loving Python :snake: , JS 
