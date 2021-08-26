@@ -61,7 +61,7 @@ Tireless Software Developer with 3+ years of experience in development, testing,
 
 [twitter]: https://twitter.com/KamilRAliyev
 [linkedin]: https://www.linkedin.com/in/aliyevk/
-[beu]: http://www.beu.edu.az/en
+[ut]: https://www.ut.ee/en
 [geotravel]: https://www.geo-travel.az/
 [devto]: https://dev.to/kamilraliyev
 [gmail]: mailto:kamilraliyev@gmail.com
