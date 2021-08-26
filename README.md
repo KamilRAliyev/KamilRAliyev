@@ -1,12 +1,13 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=KamilRAliyev.KamilRAliyev)
 
 ### Hi, I am Kamil.👋
+Tireless Software Developer with 3+ years of experience in development, testing, and maintenance of software systems. Providing web development with Django, automation with Python. Keen on details, willing to learn new technologies, and passionate about StartUPs
 ## Full Stack Python Developer :snake:
 ## A lifelong learner with a strong love to programming. 
 
 ### About me:
-- 🔭 Currently working on Adzillah LTD and Azercell LLC.
-- 💎 Senior Computer Engineering student @ [Baku Engineering University][beu].
+- 🔭 Currently working on Adzillah LTD.
+- 💎 Software Engineering student @ [University of Tartu][ut].
 - 💬 Ask me about Python Full Stack Development
 - 💜 loving Python :snake: , JS 
 
