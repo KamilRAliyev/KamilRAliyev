@@ -2,16 +2,6 @@
 
 ### Hi, I am Kamil.👋
 Tireless Software Developer with 3+ years of experience in development, testing, and maintenance of software systems. Providing web development with Django, automation with Python. Keen on details, willing to learn new technologies, and passionate about StartUPs
-## Full Stack Python Developer :snake:
-## A lifelong learner with a strong love to programming. 
-
-### About me:
-- 🔭 Currently working on Adzillah LTD.
-- 💎 Software Engineering student @ [University of Tartu][ut].
-- 💬 Ask me about Python Full Stack Development
-- 💜 loving Python :snake: , JS 
-
-<br>
 
 ### Projects:
  - :globe_with_meridians: [Geo Travel Azerbaijan Website][geotravel]
@@ -27,31 +17,6 @@ Tireless Software Developer with 3+ years of experience in development, testing,
 
 <br />
 
-### Languages and Tools:
-
-
-[<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
-
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][linkedin]
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
-
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
-
-<br />
-<br />
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -61,7 +26,5 @@ Tireless Software Developer with 3+ years of experience in development, testing,
 
 [twitter]: https://twitter.com/KamilRAliyev
 [linkedin]: https://www.linkedin.com/in/aliyevk/
-[ut]: https://www.ut.ee/en
-[geotravel]: https://www.geo-travel.az/
 [devto]: https://dev.to/kamilraliyev
 [gmail]: mailto:kamilraliyev@gmail.com
