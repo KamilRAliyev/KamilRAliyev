@@ -4,7 +4,7 @@
 Tireless Software Developer with 3+ years of experience in development, testing, and maintenance of software systems. Providing web development with Django, automation with Python. Keen on details, willing to learn new technologies, and passionate about StartUPs
 
 ### Projects:
- - :globe_with_meridians: [Geo Travel Azerbaijan Website][geotravel]
+ - :globe_with_meridians: [Geo Travel Azerbaijan Website](geotravel)
  
 <br>
 
